@@ -3,7 +3,7 @@
 Simple Tensorflow implementation of our paper SGCMC.
 The details can be found in the Final paper.
 
-### requirements
+### Requirements
 - Tensorflow 1.13.1
 - Python 3.6
 
