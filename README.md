@@ -6,8 +6,13 @@ The details can be found in [our TMM paper](https://ieeexplore.ieee.org/document
 ### Requirements
 - Tensorflow 1.13.1
 - Python 3.6
+- The HARR dataset [HARR](https://drive.google.com/file/d/1UBONG3kS_HJEy_N0wYQsxzdOMCsZ3vif/view?usp=sharing)
+- Put the DOWNLOAD data 'X2.mat' and "data" in the folder "2021-TMM-SGCMC"
 
-## Our code will be available
+### run
+```
+run_clusters.py
+```
 
 ### Citation
 
