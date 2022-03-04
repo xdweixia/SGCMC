@@ -1,7 +1,7 @@
 ## Self-supervised Graph Convolutional Network For Multi-view Clustering
 
-Simple Tensorflow implementation of our paper SGCMC.
-The details can be found in [our TMM paper](https://ieeexplore.ieee.org/document/9472979)
+Simple Tensorflow implementation of our [TMM paper](https://ieeexplore.ieee.org/document/9472979) on large-scale HARR dataset.
+
 
 ### Requirements
 - Tensorflow 1.13.1
